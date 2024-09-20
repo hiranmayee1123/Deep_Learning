@@ -5,9 +5,7 @@ To get the project running on your local machine for development and testing, fo
 Prerequisites: 
 
 You need the following software installed:
-Python 3.x
-Jupyter Notebook
-PyTorch
+Python 3.x, Jupyter Notebook, PyTorch
 
 How to Run:
 Open the corresponding .ipynb file for each section of the assignment. To execute the code, run the cells in the Jupyter Notebook. The code will automatically download the MNIST dataset and train the neural network models.
